@@ -21,3 +21,22 @@ Projects to learn how to use GitHub
 </blockquote>  
   
   
+<h1>Commit</h1>
+ <blockquote>
+  1. Create any file <br>
+  2. Right click on the folder <br>
+  3. Select Git Commit > OK <br>
+  4. Write Commit message <br>
+  5. Check the check box of the file to be committed <br>
+  <em>note) If you want to check your committed history, right click on the folder > Select TortoiseGit > Show Log</em>
+</blockquote>  
+
+
+<h1>Push</h1>
+ <blockquote>
+ 1. Right click on the folder
+ 2. Select TortoiseGit > Push
+ 3. Select the Destination > Remote > Manage from the popup
+ 4. Write on Remote field to "origin"
+ 5. Write on URL field to "Git Reposity URL"
+ </blockquote>
